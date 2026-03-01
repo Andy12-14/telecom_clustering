@@ -50,3 +50,88 @@ Epoch: 4, Batch: 30, Loss: 1.3980567455291748
 Epoch: 4, Batch: 40, Loss: 0.9054288268089294
 Epoch: 4, Batch: 50, Loss: 0.8684053421020508
 Training Complete!
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------
+
+EPOCH 10 - climbing_model_epoch10.pth ( Version 3)
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Starting training...
+Epoch: 0, Batch: 0/57, Loss: 8.6954
+Epoch: 0, Batch: 10/57, Loss: 2.4384
+Epoch: 0, Batch: 20/57, Loss: 2.0299
+Epoch: 0, Batch: 30/57, Loss: 2.1275
+Epoch: 0, Batch: 40/57, Loss: 2.1735
+Epoch: 0, Batch: 50/57, Loss: 1.7269
+--- Epoch 0 avg loss: 2.0913 ---
+Epoch: 1, Batch: 0/57, Loss: 1.5197
+Epoch: 1, Batch: 10/57, Loss: 1.6102
+Epoch: 1, Batch: 20/57, Loss: 1.9631
+Epoch: 1, Batch: 30/57, Loss: 1.8016
+Epoch: 1, Batch: 40/57, Loss: 1.6963
+Epoch: 1, Batch: 50/57, Loss: 1.2915
+--- Epoch 1 avg loss: 1.5375 ---
+Epoch: 2, Batch: 0/57, Loss: 0.9696
+Epoch: 2, Batch: 10/57, Loss: 0.9284
+Epoch: 2, Batch: 20/57, Loss: 1.1400
+Epoch: 2, Batch: 30/57, Loss: 1.4103
+Epoch: 2, Batch: 40/57, Loss: 1.5194
+Epoch: 2, Batch: 50/57, Loss: 1.5720
+--- Epoch 2 avg loss: 1.4021 ---
+Epoch: 3, Batch: 0/57, Loss: 1.0247
+Epoch: 3, Batch: 10/57, Loss: 1.6264
+Epoch: 3, Batch: 20/57, Loss: 1.2105
+Epoch: 3, Batch: 30/57, Loss: 1.4005
+Epoch: 3, Batch: 40/57, Loss: 0.8444
+Epoch: 3, Batch: 50/57, Loss: 1.4723
+--- Epoch 3 avg loss: 1.2802 ---
+Epoch: 4, Batch: 0/57, Loss: 1.0866
+Epoch: 4, Batch: 10/57, Loss: 1.5617
+Epoch: 4, Batch: 20/57, Loss: 1.0505
+Epoch: 4, Batch: 30/57, Loss: 1.6708
+Epoch: 4, Batch: 40/57, Loss: 1.0744
+Epoch: 4, Batch: 50/57, Loss: 1.6480
+--- Epoch 4 avg loss: 1.2400 ---
+Epoch: 5, Batch: 0/57, Loss: 0.8905
+Epoch: 5, Batch: 10/57, Loss: 1.6102
+Epoch: 5, Batch: 20/57, Loss: 1.4398
+Epoch: 5, Batch: 30/57, Loss: 1.1224
+Epoch: 5, Batch: 40/57, Loss: 1.3914
+Epoch: 5, Batch: 50/57, Loss: 1.3236
+--- Epoch 5 avg loss: 1.2350 ---
+Epoch: 6, Batch: 0/57, Loss: 0.9988
+Epoch: 6, Batch: 10/57, Loss: 1.2528
+Epoch: 6, Batch: 20/57, Loss: 0.9107
+Epoch: 6, Batch: 30/57, Loss: 1.6315
+Epoch: 6, Batch: 40/57, Loss: 0.9740
+Epoch: 6, Batch: 50/57, Loss: 1.1918
+--- Epoch 6 avg loss: 1.2246 ---
+Epoch: 7, Batch: 0/57, Loss: 1.5612
+Epoch: 7, Batch: 10/57, Loss: 1.1953
+Epoch: 7, Batch: 20/57, Loss: 0.9763
+Epoch: 7, Batch: 30/57, Loss: 0.6897
+Epoch: 7, Batch: 40/57, Loss: 1.3617
+Epoch: 7, Batch: 50/57, Loss: 1.3604
+--- Epoch 7 avg loss: 1.2138 ---
+Epoch: 8, Batch: 0/57, Loss: 1.0888
+Epoch: 8, Batch: 10/57, Loss: 1.0731
+Epoch: 8, Batch: 20/57, Loss: 1.6629
+Epoch: 8, Batch: 30/57, Loss: 1.0497
+Epoch: 8, Batch: 40/57, Loss: 1.2197
+Epoch: 8, Batch: 50/57, Loss: 0.9452
+--- Epoch 8 avg loss: 1.2194 ---
+Epoch: 9, Batch: 0/57, Loss: 0.9732
+Epoch: 9, Batch: 10/57, Loss: 1.2545
+Epoch: 9, Batch: 20/57, Loss: 1.5483
+Epoch: 9, Batch: 30/57, Loss: 1.5160
+Epoch: 9, Batch: 40/57, Loss: 1.2191
+Epoch: 9, Batch: 50/57, Loss: 1.6406
+--- Epoch 9 avg loss: 1.2153 ---
+Training Complete!

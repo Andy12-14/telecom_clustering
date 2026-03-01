@@ -1,9 +1,11 @@
 segmentation/MaskRCNN/Hold Detector.v2i.coco-segmentation
 segmentation/MaskRCNN/epoch1.py
 segmentation/MaskRCNN/visualize_prediction.py
+segmentation/MaskRCNN/climbing_model_epoch1.pth
 segmentation/MaskRCNN/climbing_model.pth
 segmentation/MaskRCNN/climbing_model_epoch5.pth
 segmentation/SimpleCNN
+segmentation/MaskRCNN/training_loss_curve.png
 tabular/telecom2.ipynb
 
 
