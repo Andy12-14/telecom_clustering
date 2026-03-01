@@ -4,6 +4,7 @@ segmentation/MaskRCNN/visualize_prediction.py
 segmentation/MaskRCNN/climbing_model.pth
 segmentation/MaskRCNN/climbing_model_epoch5.pth
 segmentation/SimpleCNN
-
-
 tabular/telecom2.ipynb
+
+
+/tabular
