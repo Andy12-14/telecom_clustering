@@ -12,3 +12,41 @@ Epoch: 0, Batch: 40, Loss: 1.7908804416656494
 Epoch: 0, Batch: 50, Loss: 1.7197864055633545
 
 
+
+--------------------------------------------------------------------------------------------------------------
+
+EPOCH 5 - climbing_model_epoch5.pth ( Version 2)
+
+--------------------------------------------------------------------------------------------------------------
+Starting training...
+Epoch: 0, Batch: 0, Loss: 11.459665298461914
+Epoch: 0, Batch: 10, Loss: 2.1420774459838867
+Epoch: 0, Batch: 20, Loss: 2.339132785797119
+Epoch: 0, Batch: 30, Loss: 2.274705410003662
+Epoch: 0, Batch: 40, Loss: 2.3343803882598877
+Epoch: 0, Batch: 50, Loss: 1.681612491607666
+Epoch: 1, Batch: 0, Loss: 1.3708373308181763
+Epoch: 1, Batch: 10, Loss: 1.424757957458496
+Epoch: 1, Batch: 20, Loss: 1.425351619720459
+Epoch: 1, Batch: 30, Loss: 1.818040370941162
+Epoch: 1, Batch: 40, Loss: 1.4922174215316772
+Epoch: 1, Batch: 50, Loss: 1.7108650207519531
+Epoch: 2, Batch: 0, Loss: 1.5467612743377686
+Epoch: 2, Batch: 10, Loss: 1.1366422176361084
+Epoch: 2, Batch: 20, Loss: 1.0448704957962036
+Epoch: 2, Batch: 30, Loss: 1.365187406539917
+Epoch: 2, Batch: 40, Loss: 1.1291300058364868
+Epoch: 2, Batch: 50, Loss: 1.6019426584243774
+Epoch: 3, Batch: 0, Loss: 1.4601249694824219
+Epoch: 3, Batch: 10, Loss: 1.2617735862731934
+Epoch: 3, Batch: 20, Loss: 1.4798154830932617
+Epoch: 3, Batch: 30, Loss: 1.22205650806427
+Epoch: 3, Batch: 40, Loss: 1.4161577224731445
+Epoch: 3, Batch: 50, Loss: 1.2453224658966064
+Epoch: 4, Batch: 0, Loss: 1.3636596202850342
+Epoch: 4, Batch: 10, Loss: 0.936896562576294
+Epoch: 4, Batch: 20, Loss: 1.0081439018249512
+Epoch: 4, Batch: 30, Loss: 1.3980567455291748
+Epoch: 4, Batch: 40, Loss: 0.9054288268089294
+Epoch: 4, Batch: 50, Loss: 0.8684053421020508
+Training Complete!
